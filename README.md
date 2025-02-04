@@ -8,8 +8,12 @@ Criar um web app que liste cidades específicas (listadas abaixo) e, após a sel
 - https://www.weatherapi.com
 
 ## Layout
+Tela inicial: 
+![image](https://github.com/user-attachments/assets/25d169fe-a037-4d18-9827-c9fae02b6f57)
 
-- [Link do layout no InVision](https://explosion.invisionapp.com/public/share/SX19J12TJR#screens/476656918)
+Exemplo de tela após selecionar
+![image](https://github.com/user-attachments/assets/c0a2844c-736f-4f56-b5a6-b5cd9332b3b4)
+
 
 ## Hospedagem
 
@@ -29,10 +33,10 @@ O projeto precisa ser publicado numa das duas opções abaixo:
     - Vancouver (CA);
     - Yakutsk (RU).
 - Implementação de testes unitários;
-- Fidelidade ao layout enviado (estamos enviando o layout mobile e desktop);
+- Fidelidade ao layout enviado;
 - Frameworks JavaScript opcional (de preferência, nesta ordem 😉):
-    - React com Next.js
     - React com Vite;
+    - React com Next.js;
     - Vue;
     - Angular.
 - Responsividade atendendo 3 breakpoints:
@@ -44,6 +48,10 @@ O projeto precisa ser publicado numa das duas opções abaixo:
 
 - Você deve usar os ícones do layout que melhor se encaixarem em cada condição climática;
 - Considere os horários 3:00, 9:00, 15:00 e 21:00 para as definições das temperaturas de Dawn, Morning, Afternoon, Night, respectivamente.
+- Siga a seguinte lógica para mudaras cores do layout:
+    - temperatura abaixo de 5º: fundo cinza com texto preto
+    - temperatura entre 6 e 15º: fundo azul claro com letra branca
+    - temperatura de 16 a 25º: fundo azul escuro com letra branca
 
 ## Diferenciais
 
