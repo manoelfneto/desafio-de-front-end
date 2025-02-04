@@ -48,10 +48,10 @@ O projeto precisa ser publicado numa das duas opções abaixo:
 
 - Você deve usar os ícones do layout que melhor se encaixarem em cada condição climática;
 - Considere os horários 3:00, 9:00, 15:00 e 21:00 para as definições das temperaturas de Dawn, Morning, Afternoon, Night, respectivamente.
-- Siga a seguinte lógica para mudaras cores do layout:
-    - temperatura abaixo de 5º: fundo cinza com texto preto
-    - temperatura entre 6 e 15º: fundo azul claro com letra branca
-    - temperatura de 16 a 25º: fundo azul escuro com letra branca
+- Siga a seguinte lógica para mudar as cores do layout:
+    - temperatura abaixo de 5º: fundo cinza (#C0C0C0) com texto preto
+    - temperatura entre 6 e 15º: fundo azul claro (#87CEFA) com letra branca
+    - temperatura de 16 a 25º: fundo azul escuron (#00BFFF) com letra branca
 
 ## Diferenciais
 
