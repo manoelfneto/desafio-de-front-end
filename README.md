@@ -51,7 +51,7 @@ O projeto precisa ser publicado numa das duas opções abaixo:
 - Siga a seguinte lógica para mudar as cores do layout:
     - temperatura abaixo de 5º: fundo cinza (#C0C0C0) com texto preto
     - temperatura entre 6 e 15º: fundo azul claro (#87CEFA) com letra branca
-    - temperatura de 16 a 25º: fundo azul escuron (#00BFFF) com letra branca
+    - temperatura de 16 a 25º: fundo azul escuro (#00BFFF) com letra branca
 
 ## Diferenciais
 
