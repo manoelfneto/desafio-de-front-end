@@ -39,10 +39,6 @@ O projeto precisa ser publicado numa das duas opções abaixo:
     - React com Next.js;
     - Vue;
     - Angular.
-- Responsividade atendendo 3 breakpoints:
-    - Smartphone;
-    - Tablet;
-    - Desktop.
 
 ## Observações
 
